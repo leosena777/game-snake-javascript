@@ -1,0 +1,30 @@
+{
+  "name": "game-snake-javascript",
+  "version": "1.0.0",
+  "description": "simple game snake javascript",
+  "main": "script.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start":"live-server --port=8080 --host=localhost --open=./snake.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leosena777/game-snake-javascript.git"
+  },
+  "keywords": [
+    "snake",
+    "game",
+    "javascript"
+  ],
+  "author": "leandro sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leosena777/game-snake-javascript/issues"
+  },
+  "homepage": "https://github.com/leosena777/game-snake-javascript#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
